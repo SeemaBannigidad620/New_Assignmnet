@@ -1,0 +1,6 @@
+[submodule "IdentityManagemnet"]
+	path = IdentityManagemnet
+	url = https://github.com/SeemaBannigidad620/IdentityManagemnet.git
+[submodule "UserManagementService"]
+	path = UserManagementService
+	url = https://github.com/SeemaBannigidad620/UserManagementService.git
